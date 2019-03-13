@@ -1,5 +1,5 @@
 {
-    "name": "friendsofcat/laravel-db-maintenance",
+    "name": "railroad/laravel-db-maintenance",
     "description": "Database implementation of app maintenance mode to replace default file maintenance",
     "type": "library",
     "require": {
